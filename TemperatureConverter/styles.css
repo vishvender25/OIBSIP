@@ -1,0 +1,46 @@
+*{
+    text-align: center;
+    font-family: 'Caveat', ;
+
+}
+body{
+    background-color: #EEEEEE;
+}
+h1{
+    color: #053B50;
+    position: relative;
+    top: 10px;
+    font-size: 50px;
+}
+.Converter{
+width: 50%;
+height: 300px;
+position: relative;
+top: 100px;
+left: 25%;
+background-color: #64CCC5;
+}
+
+#Celcius, #Fahrenit{
+  position: relative;
+  top: 20px;
+}
+
+.lab{
+    position: relative;
+    top: 20px;
+    color:#176B87;
+    font-size: xx-large;
+    margin: 20px;
+}
+#Celcius{
+    position: relative;
+    left: 5px;
+}
+#Celcius, #Fahrenit{
+    margin: 10px;
+    padding: 10px;
+    border-color: #64CCC5;
+    border-radius: 20px;
+}
+ 
